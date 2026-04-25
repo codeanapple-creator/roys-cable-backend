@@ -1,0 +1,6 @@
+employee_id,name,date,punch_in,punch_out
+1,Rahul Sharma,2024-01-01,09:00,18:00
+2,Priya Singh,2024-01-01,09:45,18:00
+3,Amit Kumar,2024-01-01,10:15,18:00
+4,Neha Gupta,2024-01-01,08:55,18:00
+5,Ravi Verma,2024-01-01,,
